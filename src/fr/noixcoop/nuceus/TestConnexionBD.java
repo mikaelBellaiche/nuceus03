@@ -2,6 +2,8 @@ package fr.noixcoop.nuceus;
 
 import java.sql.* ;
 
+import fr.noixcoop.nuceus.technique.ConnexionBD;
+
 public class TestConnexionBD {
 	public static void main(String [] args){
 		

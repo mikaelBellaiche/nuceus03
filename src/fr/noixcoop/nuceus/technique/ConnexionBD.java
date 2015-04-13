@@ -1,4 +1,4 @@
-package fr.noixcoop.nuceus;
+package fr.noixcoop.nuceus.technique;
 
 import java.sql.* ;
 
